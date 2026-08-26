@@ -1,0 +1,6 @@
+﻿=== HOW TO INSTALL THE FIX ===
+
+1. Copy all the files located alongside this text file (the 'jrex_Data' folder).
+2. Paste everything directly into the root folder where the Jet Racing Extreme game is installed.
+3. If Windows prompts you, confirm the file replacement!
+4. That's it! Just launch the game and play with everything unlocked and no engine bugs.
